@@ -24,48 +24,46 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 ## 👨‍💻 About Me
 
-```javascript
-const haroon = {
-  location: "Slough, UK 🇬🇧",
-  role: "Full-Stack Software Engineer",
-  education: "Self-Taught Developer",
-  
-  currentlyLearning: ["Advanced React", "TypeScript", "System Design"],
-  
-  askMeAbout: ["Web Dev", "APIs", "UI/UX", "Tech"],
-  
-  funFact: "I debug with console.log and I'm not ashamed 😄"
-};
-```
+🚀 **Self-taught Full-Stack Software Engineer** based in **Slough, UK 🇬🇧**
 
-<br clear="right"/>
+- 🔭 Currently building **modern, responsive web applications**
+- 🌱 Learning **Advanced React patterns, TypeScript & System Design**
+- 💬 Ask me about **Web Dev, APIs, UI/UX, and Tech**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
+- 🎯 Focus: **Clean code**, **real-world projects**, and **continuous improvement**
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,jquery&theme=dark" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,cs,java,dotnet&theme=dark" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman&theme=dark" />
-</p>
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -76,13 +74,10 @@ const haroon = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killdroid2342&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killdroid2342&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F97316&currStreakLabel=6366F1"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Killdroid2342&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -99,25 +94,12 @@ const haroon = {
 
 <div align="center">
 
-<a href="https://github.com/Killdroid2342/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Killdroid2342&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-</a>
-<a href="https://github.com/Killdroid2342/DiscordClone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Killdroid2342&repo=DiscordClone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
-</a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎨 **[Portfolio](https://github.com/Killdroid2342/portfolio)** | Personal portfolio showcasing projects & skills | `TypeScript` `React` `Tailwind` |
+| 💬 **[Discord Clone](https://github.com/Killdroid2342/DiscordClone)** | Frontend clone with modern UI patterns | `JavaScript` `HTML` `CSS` |
+| ⚙️ **[Discord Clone Server](https://github.com/Killdroid2342/DiscordCloneServer)** | Backend handling core communication logic | `C#` `.NET` |
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
 
 ---
@@ -126,12 +108,12 @@ const haroon = {
 
 <div align="center">
 
-| 🎯 Role | 💡 Type |
-|---------|---------|
-| Junior Software Engineer | Full-time |
-| Frontend Developer | Full-time |
-| Full-Stack Developer | Full-time / Contract |
-| Graduate Roles | Entry-level |
+🎯 **Actively seeking:**
+
+![Junior Dev](https://img.shields.io/badge/Junior_Software_Engineer-6366F1?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend_Developer-10B981?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-F59E0B?style=for-the-badge)
+![Graduate](https://img.shields.io/badge/Graduate_Roles-EC4899?style=for-the-badge)
 
 </div>
 
@@ -154,7 +136,9 @@ const haroon = {
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House"/>
+  
+  > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+  
 </div>
 
 ---
