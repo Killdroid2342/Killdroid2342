@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Haroon Khan (@Killdroid2342)
 
-🚀 **Self-Taught Software Engineer**  
-💻 Full-Stack Web Developer  
+🚀 **Self-taught Full-Stack Software Engineer**  
 📍 Slough, UK  
 
-I build **scalable web applications**, clean UIs, and robust backends using modern technologies.  
-I’m passionate about **learning fast**, **shipping real projects**, and **writing maintainable code**.
+I build **modern, responsive web applications** and scalable backend services using current industry tools.  
+I focus on **clean code**, **real-world projects**, and **continuous improvement**.
 
 ---
 
@@ -29,7 +28,7 @@ I’m passionate about **learning fast**, **shipping real projects**, and **writ
 ### 🗄️ Databases
 - SQL (MySQL / PostgreSQL)
 
-### 🛠️ Tools & Workflow
+### 🛠️ Tools & Practices
 - Git & GitHub
 - REST APIs
 - MVC Architecture
@@ -42,7 +41,7 @@ I’m passionate about **learning fast**, **shipping real projects**, and **writ
 
 ### 🔹 Portfolio
 **Repo:** `portfolio`  
-A personal portfolio showcasing my projects, skills, and experience.  
+Personal portfolio showcasing my projects, skills, and experience.  
 **Tech:** TypeScript, React, Tailwind CSS
 
 ### 🔹 Discord Clone
@@ -52,58 +51,55 @@ Frontend clone of Discord with modern UI patterns.
 
 ### 🔹 Discord Clone Server
 **Repo:** `DiscordCloneServer`  
-Backend server handling real-time communication logic.  
+Backend server handling core communication logic.  
 **Tech:** C#, .NET
-
-> 👉 More projects available in my repositories — I focus on **real-world builds**, not tutorials.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=Killdroid2342&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Killdroid2342&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub Streak Stats"
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killdroid2342&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
-
 ---
 
-## 🧠 What I’m Currently Working On
-- Improving full-stack architecture skills
-- Building production-ready applications
-- Deepening React, TypeScript, and backend performance knowledge
+## 🧠 Currently Learning
+- Advanced React patterns
+- TypeScript best practices
+- Backend performance & scalability
 
 ---
 
 ## 🤝 Open To Opportunities
 I’m actively looking for:
-- **Junior / Graduate Software Engineer roles**
-- **Frontend / Full-Stack Developer roles**
+- Junior / Graduate Software Engineer roles
+- Frontend or Full-Stack Developer roles
 - Internships & entry-level positions
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 - **LinkedIn:** https://www.linkedin.com/in/haroon-khan-12203b270
 - **GitHub:** https://github.com/Killdroid2342
 
 ---
 
-⭐ *If you like my work, consider starring a repository — it helps a lot!*
+⭐ If you like my work, feel free to star a repository!
