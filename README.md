@@ -59,9 +59,12 @@
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Killdroid2342/Killdroid2342/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Killdroid2342/Killdroid2342/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/Killdroid2342/Killdroid2342/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
