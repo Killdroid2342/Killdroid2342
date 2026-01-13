@@ -25,7 +25,7 @@
 
 - 🔭 Building **modern, responsive web applications**
 - 🌱 Learning **Advanced React, TypeScript & System Design**
-- 💬 Ask me about **Web Dev, APIs, UI/UX**
+- 💬 Ask me about **Web Development, APIs, UI/UX**
 - ⚡ Fun fact: I debug with `console.log()` and I’m not ashamed
 - 🎯 Focused on **clean code & real-world projects**
 
@@ -57,32 +57,10 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Killdroid2342&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Killdroid2342&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Killdroid2342&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Killdroid2342&theme=onedark&no-frame=true&column=4"/>
-
+  <img src="https://raw.githubusercontent.com/Killdroid2342/Killdroid2342/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
 
 ---
@@ -91,7 +69,7 @@
 
 | Project | Description | Tech |
 |-------|------------|------|
-| 🎨 **[Portfolio](https://github.com/Killdroid2342/portfolio)** | Personal portfolio site | React · TypeScript · Tailwind |
+| 🎨 **[Portfolio](https://github.com/Killdroid2342/portfolio)** | Personal portfolio website | React · TypeScript · Tailwind |
 | 💬 **[Discord Clone](https://github.com/Killdroid2342/DiscordClone)** | UI-focused frontend clone | HTML · CSS · JavaScript |
 | ⚙️ **[Discord Clone Server](https://github.com/Killdroid2342/DiscordCloneServer)** | Backend server | C# · .NET |
 
